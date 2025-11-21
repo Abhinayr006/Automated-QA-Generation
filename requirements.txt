@@ -1,0 +1,14 @@
+transformers
+torch
+scikit-learn
+sentence-transformers
+flask
+pymupdf
+sentencepiece
+spacy
+faiss-cpu
+numpy
+nltk
+gensim
+pandas
+textblob
