@@ -2,9 +2,9 @@
 
 An AI-powered educational tool that automatically generates Multiple Choice Questions (MCQs) and Short Answer questions from PDF documents. This platform leverages advanced Natural Language Processing (NLP) models to extract text, generate high-quality questions, and evaluate student responses.
 
-![My Image](images/pic1.png)
-![My Image](images/pic2.png)
-![My Image](images/pic3.png)
+![My Image](images/pic1.jpeg)
+![My Image](images/pic2.jpeg)
+![My Image](images/pic3.jpeg)
 
 ## 🚀 Features
 
